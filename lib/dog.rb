@@ -1,3 +1,4 @@
 class Dog 
-  fido = fido
+  fido = "fido"
+  
 end
